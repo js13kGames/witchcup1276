@@ -1,4 +1,8 @@
 ---
+genres:
+  - racing
+  - sports
+  - arcade
 post: https://github.com/DerBenniBanni/js13k2023_witch_racing/blob/main/postmortem/README.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
